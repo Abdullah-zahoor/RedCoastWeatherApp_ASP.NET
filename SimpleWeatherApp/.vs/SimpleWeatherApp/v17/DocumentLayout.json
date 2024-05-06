@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROJECT SE\\SimpleWeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D687FAA0-D4CD-4299-8195-09887EC6006A}|TestWeatherApp\\TestWeatherApp.csproj|e:\\project se\\simpleweatherapp\\testweatherapp\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D687FAA0-D4CD-4299-8195-09887EC6006A}|TestWeatherApp\\TestWeatherApp.csproj|solutionrelative:testweatherapp\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|e:\\project se\\simpleweatherapp\\simpleweatherapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|solutionrelative:simpleweatherapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|e:\\project se\\simpleweatherapp\\simpleweatherapp\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|solutionrelative:simpleweatherapp\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|e:\\project se\\simpleweatherapp\\simpleweatherapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|solutionrelative:simpleweatherapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|e:\\project se\\simpleweatherapp\\simpleweatherapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|solutionrelative:simpleweatherapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|e:\\project se\\simpleweatherapp\\simpleweatherapp\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|solutionrelative:simpleweatherapp\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|e:\\project se\\simpleweatherapp\\simpleweatherapp\\models\\forecastdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|solutionrelative:simpleweatherapp\\models\\forecastdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|e:\\project se\\simpleweatherapp\\simpleweatherapp\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|solutionrelative:simpleweatherapp\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|e:\\project se\\simpleweatherapp\\simpleweatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F046CF0-C945-4ACF-9215-6DC0EC461D88}|SimpleWeatherApp\\SimpleWeatherApp.csproj|solutionrelative:simpleweatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\PROJECT SE\\SimpleWeatherApp\\TestWeatherApp\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestWeatherApp\\UnitTest1.cs",
+              "ToolTip": "E:\\PROJECT SE\\SimpleWeatherApp\\TestWeatherApp\\UnitTest1.cs",
+              "RelativeToolTip": "TestWeatherApp\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:32:29.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SimpleWeatherApp\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SimpleWeatherApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-06T17:14:23.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApp\\Services\\WeatherService.cs",
+              "ToolTip": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Services\\WeatherService.cs",
+              "RelativeToolTip": "SimpleWeatherApp\\Services\\WeatherService.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAuwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:49:38.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApp\\Models\\WeatherData.cs",
+              "ToolTip": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Models\\WeatherData.cs",
+              "RelativeToolTip": "SimpleWeatherApp\\Models\\WeatherData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:46:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForecastData.cs",
+              "DocumentMoniker": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Models\\ForecastData.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApp\\Models\\ForecastData.cs",
+              "ToolTip": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Models\\ForecastData.cs",
+              "RelativeToolTip": "SimpleWeatherApp\\Models\\ForecastData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:18:29.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApp\\Services\\IWeatherService.cs",
+              "ToolTip": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "SimpleWeatherApp\\Services\\IWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:47:46.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleWeatherApp\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SimpleWeatherApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwEAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T15:50:48.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "SimpleWeatherApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:50:34.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApp\\Program.cs",
+              "ToolTip": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\Program.cs",
+              "RelativeToolTip": "SimpleWeatherApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:50:03.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

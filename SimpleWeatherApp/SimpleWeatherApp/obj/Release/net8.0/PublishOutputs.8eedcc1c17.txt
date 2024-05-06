@@ -1,0 +1,16 @@
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\SimpleWeatherApp.exe
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\xunit.runner.visualstudio.testadapter.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\xunit.runner.reporters.netcoreapp10.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\xunit.runner.utility.netcoreapp10.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\SimpleWeatherApp.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\SimpleWeatherApp.runtimeconfig.json
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\SimpleWeatherApp.pdb
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\Castle.Core.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\Moq.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\xunit.abstractions.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\xunit.assert.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\xunit.core.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\xunit.execution.dotnet.dll
+E:\PROJECT SE\SimpleWeatherApp\SimpleWeatherApp\obj\Release\net8.0\PubTmp\Out\SimpleWeatherApp.deps.json

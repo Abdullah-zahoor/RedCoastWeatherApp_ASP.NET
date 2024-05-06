@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Whd8p4i+5Xb1b+OzBuL9E+Zq3mJ1kb0g0zNprK1CYsvyhOSSCRN0xB4uVGmydFWq8rhNyQwg+5WxR/o74mwj/Q==",
+  "success": true,
+  "projectFilePath": "E:\\PROJECT SE\\SimpleWeatherApp\\SimpleWeatherApp\\SimpleWeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\xunit\\2.8.0\\xunit.2.8.0.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\xunit.analyzers\\1.13.0\\xunit.analyzers.1.13.0.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\xunit.assert\\2.8.0\\xunit.assert.2.8.0.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\xunit.core\\2.8.0\\xunit.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\xunit.extensibility.core\\2.8.0\\xunit.extensibility.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\xunit.extensibility.execution\\2.8.0\\xunit.extensibility.execution.2.8.0.nupkg.sha512",
+    "C:\\Users\\DELL 5501\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.0\\xunit.runner.visualstudio.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

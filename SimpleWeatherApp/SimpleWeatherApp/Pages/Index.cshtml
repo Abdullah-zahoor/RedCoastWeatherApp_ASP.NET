@@ -1,0 +1,71 @@
+﻿@page
+@model SimpleWeatherApp.Pages.IndexModel
+
+<!-- Background Video -->
+<video autoplay muted loop>
+    <source src="/videos/1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+<div class="container">
+    <h1 class="heading">Weather Dashboard</h1>
+
+    <!-- Form for user to input the city name -->
+    <form method="post" class="form">
+        <div class="input-group">
+            <label for="city" class="sr-only">City:</label>
+            <input type="text" id="city" name="City" value="@Model.City" placeholder="Enter city name" required />
+            <button type="submit">Get Weather</button>
+        </div>
+    </form>
+
+   
+    @if (!ModelState.IsValid)
+    {
+        <div class="alert alert-danger">
+            <strong>Error:</strong> @Html.ValidationMessage("")
+        </div>
+    }
+
+    <!-- Display the current weather if available -->
+    @if (Model.Weather != null)
+    {
+        <div class="card">
+            <h2>Current Weather in @Model.City</h2>
+            <p><strong>Temperature:</strong> @Model.Weather.Temperature°C</p>
+            <p><strong>Description:</strong> @Model.Weather.Description</p>
+            <p><strong>Humidity:</strong> @Model.Weather.Humidity%</p>
+        </div>
+    }
+
+    <!-- Display the 5-day weather forecast if available -->
+    @if (Model.Forecast != null && Model.Forecast.DailyForecasts.Count > 0)
+    {
+        <div class="card">
+            <h2>5-Day Forecast</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Temperature (°C)</th>
+                        <th>High (°C)</th>
+                        <th>Low (°C)</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var day in Model.Forecast.DailyForecasts)
+                    {
+                        <tr>
+                            <td>@day.Date.ToString("yyyy-MM-dd")</td>
+                            <td>@day.Temperature</td>
+                            <td>@day.high_temp</td>
+                            <td>@day.LowTemp</td>
+                            <td>@day.Description</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
